@@ -20,15 +20,19 @@ Also make sure that your Wii U's SD card is formatted as FAT32.
 
 * A Windows, Mac or Linux computer with an SD card reader
 
+* If you are using Windows, [.NET Framework](https://docs.microsoft.com/en-us/dotnet/framework/install/) version 4.5.2 or newer
+
+* If you are using Mac or Linux, [Mono](http://www.mono-project.com/docs/getting-started/install/)
+
 #### Steps
 
-**1.** Connect your Wii U's SD card to your computer.
+**1.** Insert your SD card into your computer.
 
 **2.** Extract the contents of dumpling.zip to the root of your SD card.
 
 **3.** Extract the contents of wiiu-vc-extractor-0.9.0.zip to a folder on your computer.
 
-**4.** Connect your SD card to your Wii U.
+**4.** Insert your SD card into your Wii U.
 
 **5.** Launch The Homebrew Launcher using your preferred method.
 
@@ -40,5 +44,23 @@ Also make sure that your Wii U's SD card is formatted as FAT32.
 
 **9.** Make sure the target destination is set to "SD card" and the account is set accordingly, then select Start to begin dumping. (this could take a while)
 
-**10.** Once finished, turn off your console and connect your Wii U's SD card to your computer.
+**10.** Once finished, turn off your console and insert your SD card into your computer.
+
+**11.** Go into dumpling/games/[name of the game you dumped]/content/ on your SD card and copy the file with the extension .rpx (.psb.m if you are extracting a GBA game, .pkg if you are extracting a PCE game) into the same folder that you extracted wiiu-vc-extractor into.
+
+**12.** Launch Command Prompt if you are on Windows. If you are on Mac or Linux, launch Terminal.
+
+**13.** If you are using Windows, run the following commands:
+
+```cd [path to your wiiu-vc-extractor folder without the brackets]
+WiiuVcExtractor [dump file without the brackets]
+```
+
+If you are using Mac or Linux, run the following commands:
+
+```cd [path to your wiiu-vc-extractor folder without the brackets]
+mono WiiuVcExtractor [dump file without the brackets]
+```
+
+Congratulations, you now have your ROM! You can find the file in your wiiu-vc-extractor folder.
 
