@@ -8,7 +8,7 @@ Before you begin, if you are using Windows, make sure that **File Name Extension
 
 Also make sure that your Wii U's SD card is formatted as FAT32.
 
-### NES/SNES/GBA/DS/FDS/PCE/TurboGrafx-16
+## NES/SNES/GBA/DS/FDS/PCE/TurboGrafx-16
 
 ### What you need
 
