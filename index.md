@@ -6,9 +6,9 @@ Before you begin, if you are using Windows, make sure that **File Name Extension
   <img src="https://i.imgur.com/Enayp9F.png" alt="File Explorer"/>
 </p>
 
-Also make sure that your Wii U's SD card is formatted as FAT32.
+Also make sure that your SD card is formatted as FAT32.
 
-## NES/SNES/GBA/DS/FDS/PCE/TurboGrafx-16
+## NES/SNES/GBA/FDS/PCE/TurboGrafx-16
 
 ### What you need
 
@@ -46,7 +46,7 @@ Also make sure that your Wii U's SD card is formatted as FAT32.
 
 **10.** Once finished, turn off your console and insert your SD card into your computer.
 
-**11.** Go into dumpling/games/[name of the game you dumped]/content/ on your SD card and copy the file with the extension .rpx (.psb.m if you are extracting a GBA game, .pkg if you are extracting a PCE game) into the same folder that you extracted wiiu-vc-extractor into.
+**11.** Go into dumpling/games/[name of the game you dumped]/code/ on your SD card and copy the file with the extension .rpx (the file extension will be .psb.m if you are extracting a GBA game, .pkg if you are extracting a PCE game) into the same folder that you extracted wiiu-vc-extractor into.
 
 **12.** Launch Command Prompt if you are on Windows. If you are on Mac or Linux, launch Terminal.
 
