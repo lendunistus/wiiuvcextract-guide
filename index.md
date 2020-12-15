@@ -6,6 +6,8 @@ Before you begin, if you are using Windows, make sure that **File Name Extension
   <img src="https://i.imgur.com/Enayp9F.png" alt="File Explorer"/>
 </p>
 
+Also make sure that your Wii U's SD card is formatted as FAT32.
+
 ### NES/SNES/GBA/DS/FDS/PCE/TurboGrafx-16
 
 ### What you need
@@ -22,7 +24,7 @@ Before you begin, if you are using Windows, make sure that **File Name Extension
 
 **1.** Connect your Wii U's SD card to your computer.
 
-**2.** Extract the contents of dumpling.zip to wiiu/apps on your SD card.
+**2.** Extract the contents of dumpling.zip to the root of your SD card.
 
 **3.** Extract the contents of wiiu-vc-extractor-0.9.0.zip to a folder on your computer.
 
@@ -33,4 +35,10 @@ Before you begin, if you are using Windows, make sure that **File Name Extension
 **6.** Launch Dumpling.
 
 **7.** Select "Dump Digital Games".
+
+**8.** Select all the games you want to dump using the DPad/A button and then press Start.
+
+**9.** Make sure the target destination is set to "SD card" and the account is set accordingly, then select Start to begin dumping. (this could take a while)
+
+**10.** Once finished, turn off your console and connect your Wii U's SD card to your computer.
 
