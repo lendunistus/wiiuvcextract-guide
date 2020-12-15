@@ -52,13 +52,17 @@ Also make sure that your Wii U's SD card is formatted as FAT32.
 
 **13.** If you are using Windows, run the following commands:
 
-```cd [path to your wiiu-vc-extractor folder without the brackets]
+```
+cd [path to your wiiu-vc-extractor folder without the brackets]
+
 WiiuVcExtractor [dump file without the brackets]
 ```
 
 If you are using Mac or Linux, run the following commands:
 
-```cd [path to your wiiu-vc-extractor folder without the brackets]
+```
+cd [path to your wiiu-vc-extractor folder without the brackets]
+
 mono WiiuVcExtractor [dump file without the brackets]
 ```
 
