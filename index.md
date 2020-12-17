@@ -9,11 +9,11 @@ Before you begin, if you are using Windows, make sure that **File Name Extension
 Also make sure that your SD card is formatted as FAT32.
 If it is not use one of these tools to do so:
 
-Windows-[GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm)
+Windows - [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm)
 
-Linux-[GParted](https://gparted.org/download.php)
+Linux - [GParted](https://gparted.org/download.php)
 
-MacOS-[Disk Utility](https://support.apple.com/guide/disk-utility/format-a-disk-for-windows-computers-dskutl1010)
+MacOS - [Disk Utility](https://support.apple.com/guide/disk-utility/format-a-disk-for-windows-computers-dskutl1010)
 
 MacOS Users: Always select "MS-DOS (FAT)", even if the card is larger than 32GB.
 
