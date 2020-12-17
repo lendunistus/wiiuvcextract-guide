@@ -12,9 +12,9 @@ Also make sure that your SD card is formatted as FAT32.
 
 ### What you need
 
-* [wiiu-vc-extractor](https://github.com/wheatevo/wiiu-vc-extractor/releases/tag/0.9.0) (download wiiu-vc-extractor-0.9.0.zip)
+* [wiiu-vc-extractor](https://github.com/wheatevo/wiiu-vc-extractor/releases/tag/0.9.0) (`download wiiu-vc-extractor-0.9.0.zip`)
 
-* [Dumpling](https://github.com/emiyl/dumpling/releases/tag/2.1.1) (download dumpling.zip)
+* [Dumpling](https://github.com/emiyl/dumpling/releases/tag/2.1.1) (download ``dumpling.zip``)
 
 * An SD card with at least 300MB of free space
 
@@ -68,3 +68,10 @@ mono WiiuVcExtractor [dump file without the brackets]
 
 Congratulations, you now have your ROM! You can find the file in your wiiu-vc-extractor folder.
 
+## Nintendo 64
+
+### What you need
+
+* [Dumpling](https://github.com/emiyl/dumpling/releases/tag/2.1.1) (download ``dumpling.zip``)
+
+* An SD card with at least 300MB of free storage
