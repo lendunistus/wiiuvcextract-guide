@@ -102,15 +102,15 @@ Congratulations, you now have your ROM! You can find the file in your wiiu-vc-ex
 
 Congratulations, you now have your N64 ROM!
 
-##Nintendo DS
+## Nintendo DS
 
-###What you need
+### What you need
 
 * [Dumpling](https://github.com/emiyl/dumpling/releases/tag/2.1.1) (download ``dumpling.zip``)
 
-*An SD card with at least 300MB of free storage
+* An SD card with at least 300MB of free storage
 
-*A Computer that can read SD cards (an Android phone with an SD card slot also works great!)
+* A computer with an SD card reader (an Android phone with an SD card slot also works great!)
 
 #### Steps
 
@@ -172,14 +172,14 @@ Congratulations, you now have your NDS ROM!
 
 **9.** Go into dumpling/games/[name of the game you dumped]/content/ and extract the contents of ``nfs2iso2nfs.zip`` here.
 
-**10.**If you are on Mac or Linux, launch Terminal.
+**10.** If you are on Mac or Linux, launch Terminal.
 
 **11.** If you are using Windows, run the exe ``nfs2iso2nfs.exe`` in the folder you extracted it to.
 
 If you are using Mac or Linux, run the following commands:
 
 ```
-cd [path to where you places nfs2iso2nfs]
+cd [path to where you placed nfs2iso2nfs]
 
 mono nfs2iso2nfs.exe -dec
 ```
