@@ -87,6 +87,8 @@ Congratulations, you now have your ROM! You can find the file in your wiiu-vc-ex
 
 * A computer with an SD card reader (an Android phone with an SD card slot also works great!)
 
+#### Steps
+
 **1.** Extract the contents of ``dumpling.zip`` to the root of your SD card.
 
 **2.** Insert your SD card into your Wii U and power your Wii U on.
@@ -109,3 +111,86 @@ Congratulations, you now have your ROM! You can find the file in your wiiu-vc-ex
 
 Congratulations, you now have your N64 ROM!
 
+## Nintendo DS
+
+### What you need
+
+* [Dumpling](https://github.com/emiyl/dumpling/releases/tag/2.1.1) (download ``dumpling.zip``)
+
+* An SD card with at least 300MB of free storage
+
+* A computer with an SD card reader (an Android phone with an SD card slot also works great!)
+
+#### Steps
+
+**1.** Extract the contents of ``dumpling.zip`` to the root of your sd card.
+
+**2.** Insert your SD card into your Wii U and power your Wii U on.
+
+**3.** Launch The Homebrew Launcher using your preferred method.
+
+**4.** Launch Dumpling.
+
+**5.** Select "Dump Digital Games".
+
+**6.** Select all the games you want to dump using the DPad/A button and then press Start.
+
+**7.** Make sure the target destination is set to ``SD card`` and the account is set accordingly, then select Start to begin dumping. (this could take a while)
+
+**8.** Once the dump has finished, press Start to exit Dumpling and insert your SD card into your computer/phone.
+
+**9.** Go into dumpling/games/[name of the game you dumped]/game/content/0010/ on your SD card. There should be a file called ``rom.zip`` and have a ``.nds/.srl`` file inside it. If it is an ``.srl`` file you can rename it to ``.nds`` and have it work that way.
+
+**10.** Copy the file to a safe location on your device.
+
+Congratulations, you now have your NDS ROM!
+
+##Nintendo Wii
+
+###What you need
+
+* [nfs2iso2nfs](https://github.com/sabykos/nfs2iso2nfs/releases/tag/r2) (download ``nfs2iso2nfs.zip``)
+
+* [Dumpling](https://github.com/emiyl/dumpling/releases/tag/2.1.1) (download ``dumpling.zip``)
+
+* An SD card with at least 300MB of free space
+
+* A Windows, Mac or Linux computer with an SD card reader
+
+* If you are using Windows, [.NET Framework](https://docs.microsoft.com/en-us/dotnet/framework/install/) version 4.5.2 or newer
+
+* If you are using Mac or Linux, [Mono](http://www.mono-project.com/docs/getting-started/install/)
+ 
+#### Steps
+
+**1.** Extract the contents of ``dumpling.zip`` to the root of your sd card.
+
+**2.** Insert your SD card into your Wii U and power your Wii U on.
+
+**3.** Launch The Homebrew Launcher using your preferred method.
+
+**4.** Launch Dumpling.
+
+**5.** Select "Dump Digital Games".
+
+**6.** Select all the games you want to dump using the DPad/A button and then press Start.
+
+**7.** Make sure the target destination is set to ``SD card`` and the account is set accordingly, then select Start to begin dumping. (this could take a while)
+
+**8.** Once the dump has finished, press Start to exit Dumpling and insert your SD card into your computer.
+
+**9.** Go into dumpling/games/[name of the game you dumped]/content/ and extract the contents of ``nfs2iso2nfs.zip`` here.
+
+**10.** If you are on Mac or Linux, launch Terminal.
+
+**11.** If you are using Windows, run the exe ``nfs2iso2nfs.exe`` in the folder you extracted it to.
+
+If you are using Mac or Linux, run the following commands:
+
+```
+cd [path to where you placed nfs2iso2nfs]
+
+mono nfs2iso2nfs.exe -dec
+```
+
+Congratulations, you now have your ROM! You can find the file in your wiiu-vc-extractor folder.
