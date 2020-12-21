@@ -193,4 +193,4 @@ cd [path to where you placed nfs2iso2nfs]
 mono nfs2iso2nfs.exe -dec
 ```
 
-Congratulations, you now have your ROM! You can find the file in your wiiu-vc-extractor folder.
+Congratulations, you now have your ROM! You can find the file in the folder you ran the exe in.
