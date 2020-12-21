@@ -145,9 +145,9 @@ Congratulations, you now have your N64 ROM!
 
 Congratulations, you now have your NDS ROM!
 
-##Nintendo Wii
+## Nintendo Wii
 
-###What you need
+### What you need
 
 * [nfs2iso2nfs](https://github.com/sabykos/nfs2iso2nfs/releases/tag/r2) (download ``nfs2iso2nfs.zip``)
 
