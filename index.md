@@ -159,7 +159,7 @@ Congratulations, you now have your NDS ROM!
 
 * If you are using Windows, [.NET Framework](https://docs.microsoft.com/en-us/dotnet/framework/install/) version 4.5.2 or newer
 
-* If you are using Mac or Linux, [Mono](http://www.mono-project.com/docs/getting-started/install/)
+* If you are using Mac or Linux, [Wine](https://wiki.winehq.org/Download)
  
 #### Steps
 
@@ -190,7 +190,7 @@ If you are using Mac or Linux, run the following commands:
 ```
 cd [path to where you placed nfs2iso2nfs]
 
-mono nfs2iso2nfs.exe -dec
+wine nfs2iso2nfs.exe -dec
 ```
 
 Congratulations, you now have your ROM! You can find the file in the folder you ran the exe in.
