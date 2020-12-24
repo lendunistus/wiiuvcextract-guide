@@ -153,7 +153,7 @@ Congratulations, you now have your NDS ROM!
 
 * [Dumpling](https://github.com/emiyl/dumpling/releases/tag/2.1.1) (download ``dumpling.zip``)
 
-* An SD card with at least 300MB of free space
+* An SD card with at least 4GB of free space
 
 * A Windows, Mac or Linux computer with an SD card reader
 
