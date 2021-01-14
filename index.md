@@ -195,9 +195,9 @@ wine nfs2iso2nfs.exe -dec
 
 Congratulations, you now have your ROM! You can find the file in the folder you ran the exe in.
 
-###Issues
+### Issues
 
-##Nintendo Wii
+## Nintendo Wii
 
 When running the exe I get "AES key missing". what do i do?\nMissing htk.bin in the ``/code`` folder. redump your game
 
