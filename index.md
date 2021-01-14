@@ -197,12 +197,12 @@ Congratulations, you now have your ROM! You can find the file in the folder you 
 
 ## Issues
 
-If your having issues join the [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) or read below. (if your issue is not present below join the Nintendo Homebrew discord and ass for help in **#wiiu-assistance**
+If your having issues join the [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) or read below. (if your issue is not present below join the Nintendo Homebrew Discord and ask for help in **#wiiu-assistance**)
 
 ### Nintendo Wii
 
 When running the exe I get "AES key missing". what do i do?\nMissing htk.bin in the ``/code`` folder. redump your game
 
-When running the exe I get "Wii Common Key not found". what do i do?\nMissing the wii common key in the dump. get the wii common key from somewhere (dont ask me!)
+When running the exe I get "Wii Common Key not found". what do i do?\nMissing the wii common key in the dump. Get the wii common key from somewhere (dont ask me!)
 
 (will add more if more issues arise)
