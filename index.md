@@ -201,10 +201,10 @@ If your having issues join the [Nintendo Homebrew Discord](https://discord.gg/C2
 
 ### Nintendo Wii
 
-When running the exe I get "AES key missing". what do i do?   
-Missing htk.bin in the ``/code`` folder. redump your game
+**Q:** When running the exe I get "AES key missing". What do I do?   
+**A.** You are missing htk.bin in the ``/code`` folder. Redump your game.
 
-When running the exe I get "Wii Common Key not found". what do i do?  
-Missing the wii common key in the dump. Get the wii common key from somewhere (dont ask me!)
+**Q.** When running the exe I get "Wii Common Key not found". What do I do?  
+**A.** You are missing the wii common key in the dump. Get the wii common key from somewhere (your favorite search engine is your friend).
 
 (will add more if more issues arise)
