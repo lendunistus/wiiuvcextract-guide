@@ -55,7 +55,10 @@ MacOS Users: Always select "MS-DOS (FAT)", even if the card is larger than 32GB.
 
 **10.** Once finished, press start to exit Dumpling and insert your SD card into your computer.
 
-**11.** Go into dumpling/games/[name of the game you dumped]/code/ on your SD card and copy the file with the extension ``.rpx`` (the file extension will be ``.psb.m`` if you are extracting a GBA game, ``.pkg`` if you are extracting a PCE game) into the same folder that you extracted wiiu-vc-extractor into.
+**11.** Go into dumpling/games/[name of the game you dumped]/ on your SD card.  
+● If your game is a NES/SNES/GBA/FDS/TurboGrafx-16 go into ``/code`` and copy the .rpx into the same folder that you extracted wiiu-vc-extractor into.  
+● If your game is a GBA game go into ``/content`` and copy the .psb.m file and the .bin file into the same folder that you extracted wiiu-vc-extractor into.  
+● If your game is a PCE game go into ``/content`` and copy the .pkg file into the same folder that you extracted wiiu-vc-extractor into.
 
 **12.** Launch Command Prompt if you are on Windows. If you are on Mac or Linux, launch Terminal.
 
