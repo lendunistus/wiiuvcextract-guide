@@ -1,4 +1,4 @@
-### How to extract ROMs from Wii U VC games
+## How to extract ROMs from Wii U VC games
 
 Before you begin, if you are using Windows, make sure that **File Name Extensions** is enabled in File Explorer, like in the image below.
 
@@ -211,3 +211,13 @@ If you are having issues, read below. (If your issue is not present below, join 
 **A.** You are missing the wii common key in the dump. Get the wii common key from somewhere (your favorite search engine is your friend).
 
 (will add more if more issues arise)
+
+## Credits
+
+* **lendun** for writing the wiiuvcextractor/N64/opening sections and figuring out how to select a default Github Pages theme
+
+* **Lazr** for writing the DS/Wii/issues sections and helping with fact checking
+
+* **Gary** and other Wii U helpers in the NH Discord server for helping with fact checking
+
+* all the amazing developers who made the software used in this guide!
