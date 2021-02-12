@@ -21,13 +21,13 @@ MacOS Users: Always select "MS-DOS (FAT)", even if the card is larger than 32GB.
 
 ### What you need
 
-* [wiiu-vc-extractor](https://github.com/wheatevo/wiiu-vc-extractor/releases/tag/0.9.0) (``download wiiu-vc-extractor-0.9.0.zip``)
+* [wiiu-vc-extractor](https://github.com/wheatevo/wiiu-vc-extractor/releases/tag/0.9.0) (download ``wiiu-vc-extractor-0.9.0.zip``)
 
 * [Dumpling](https://github.com/emiyl/dumpling/releases/tag/2.1.1) (download ``dumpling.zip``)
 
 * An SD card with at least 300MB of free space
 
-* A Windows, Mac or Linux computer with an SD card reader
+* A Windows, Mac OS X (only pre-Catalina versions are supported) or Linux computer with an SD card reader
 
 * If you are using Windows, [.NET Framework](https://docs.microsoft.com/en-us/dotnet/framework/install/) version 4.5.2 or newer
 
@@ -158,11 +158,11 @@ Congratulations, you now have your NDS ROM!
 
 * An SD card with at least 4GB of free space
 
-* A Windows, Mac or Linux computer with an SD card reader
+* A Windows, Mac OS X (only pre-Catalina versions are supported) or Linux computer with an SD card reader
 
 * If you are using Windows, [.NET Framework](https://docs.microsoft.com/en-us/dotnet/framework/install/) version 4.5.2 or newer
 
-* If you are using Mac or Linux, [Wine](https://wiki.winehq.org/Download) (You may need to install Wine-Mono, instructions can be found [here](https://github.com/Lazr1026/Guides-and-Shit-v2/blob/main/docs/Wine-Mono_installation.md))
+* If you are using Mac OS X or Linux, [Wine](https://wiki.winehq.org/Download) (You may need to install Wine-Mono, instructions can be found [here](https://github.com/Lazr1026/Guides-and-Shit-v2/blob/main/docs/Wine-Mono_installation.md))
  
 #### Steps
 
