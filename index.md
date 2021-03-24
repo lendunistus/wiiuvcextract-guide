@@ -21,17 +21,13 @@ MacOS Users: Always select "MS-DOS (FAT)", even if the card is larger than 32GB.
 
 ### What you need
 
-* [wiiu-vc-extractor](https://github.com/wheatevo/wiiu-vc-extractor/releases/tag/0.9.0) (download ``wiiu-vc-extractor-0.9.0.zip``)
+* [wiiu-vc-extractor](https://github.com/wheatevo/wiiu-vc-extractor/releases/tag/2.0.0/) (download the respective .zip file for your operating system)
 
 * [Dumpling](https://github.com/emiyl/dumpling/releases/tag/2.1.1) (download ``dumpling.zip``)
 
 * An SD card with at least 300MB of free space
 
-* A Windows, Mac OS X (only pre-Catalina versions are supported) or Linux computer with an SD card reader
-
-* If you are using Windows, [.NET Framework](https://docs.microsoft.com/en-us/dotnet/framework/install/) version 4.5.2 or newer
-
-* If you are using Mac or Linux, [Mono](http://www.mono-project.com/docs/getting-started/install/)
+* A Windows, Mac OS X or Linux computer with an SD card reader
 
 #### Steps
 
@@ -39,7 +35,7 @@ MacOS Users: Always select "MS-DOS (FAT)", even if the card is larger than 32GB.
 
 **2.** Extract the contents of ``dumpling.zip`` to the root of your SD card.
 
-**3.** Extract the contents of ``wiiu-vc-extractor-0.9.0.zip`` to a folder on your computer.
+**3.** Extract the contents of ``wiiu-vc-extractor-xxxxx-x64.zip`` to a folder on your computer.
 
 **4.** Insert your SD card into your Wii U and power your Wii U on.
 
@@ -60,23 +56,11 @@ MacOS Users: Always select "MS-DOS (FAT)", even if the card is larger than 32GB.
 ● If your game is a GBA game go into ``/content`` and copy the .psb.m file and the .bin file into the same folder that you extracted wiiu-vc-extractor into.  
 ● If your game is a PCE game go into ``/content`` and copy the .pkg file into the same folder that you extracted wiiu-vc-extractor into.
 
-**12.** Launch Command Prompt if you are on Windows. If you are on Mac or Linux, launch Terminal.
+**12.** Launch the executable in the wiiu-vc-extractor folder.
 
-**13.** If you are using Windows, run the following commands:
+**13.** Run the following command:
 
-```
-cd [path to your wiiu-vc-extractor folder without the brackets]
-
-WiiuVcExtractor [dump file without the brackets]
-```
-
-If you are using Mac or Linux, run the following commands:
-
-```
-cd [path to your wiiu-vc-extractor folder without the brackets]
-
-mono WiiuVcExtractor [dump file without the brackets]
-```
+``WiiuVcExtractor [dump file without the brackets]``
 
 Congratulations, you now have your ROM! You can find the file in your wiiu-vc-extractor folder.
 
