@@ -56,11 +56,9 @@ MacOS Users: Always select "MS-DOS (FAT)", even if the card is larger than 32GB.
 ● If your game is a GBA game go into ``/content`` and copy the .psb.m file and the .bin file into the same folder that you extracted wiiu-vc-extractor into.  
 ● If your game is a PCE game go into ``/content`` and copy the .pkg file into the same folder that you extracted wiiu-vc-extractor into.
 
-**12.** Launch the executable in the wiiu-vc-extractor folder.
+**12.** Run the following command:
 
-**13.** Run the following command:
-
-``WiiuVcExtractor [dump file without the brackets]``
+``WiiuVcExtractor [dump file without the brackets]``  
 
 Congratulations, you now have your ROM! You can find the file in your wiiu-vc-extractor folder.
 
