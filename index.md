@@ -136,49 +136,43 @@ Congratulations, you now have your NDS ROM!
 
 * [nfs2iso2nfs](https://github.com/sabykos/nfs2iso2nfs/releases/tag/r2) (download ``nfs2iso2nfs.zip``)
 
-* [Dumpling](https://github.com/emiyl/dumpling/releases/tag/2.1.1) (download ``dumpling.zip``)
+* [DumpsterU](https://github.com/GaryOderNichts/DumpsterU/releases/) (download the one for your OS)
 
-* An SD card with at least 4GB of free space
+* A ``otp.bin`` and ``seeprom.bin`` dump from your Wii U, if you dont have them follow this page: [Nand Dump](https://wiiu.hacks.guide/#/mocha/online-exploit/nand-backup)
 
-* A Windows, Mac OS X (only pre-Catalina versions are supported) or Linux computer with an SD card reader
+* A Wii U formatted USB Drive with at least 4GB (Copy the game(s) you want to extract to this before following the steps)
+
+* A Windows or Ubuntu computer
 
 * If you are using Windows, [.NET Framework](https://docs.microsoft.com/en-us/dotnet/framework/install/) version 4.5.2 or newer
 
-* If you are using Mac OS X or Linux, [Wine](https://wiki.winehq.org/Download) (You may need to install Wine-Mono, instructions can be found [here](https://github.com/Lazr1026/Guides-and-Shit-v2/wiki/Wine-Mono-Installation))
+* If you are using Ubuntu, [Wine](https://wiki.winehq.org/Download) (You may need to install Wine-Mono, instructions can be found [here](https://github.com/Lazr1026/Guides-and-Shit-v2/wiki/Wine-Mono-Installation))
  
 #### Steps
 
-**1.** Extract the contents of ``dumpling.zip`` to the root of your sd card.
+**1.** Insert the USB drive into your Computer. Do not format the drive if promted to.
 
-**2.** Insert your SD card into your Wii U and power your Wii U on.
+**2.** Open up DumpsterU on your PC. Ubuntu users may have to open it through the terminal.
 
-**3.** Launch The Homebrew Launcher using your preferred method.
+**3.** Select your USB drive and insert your ``otp.bin`` and ``seeprom.bin`` into DumpsterU and click ``Ok``.
 
-**4.** Launch Dumpling.
+**4.** Select the Game you are wanting to extract and select a place to store it. (You have to do this step with every game you want to extract.)
 
-**5.** Select "Dump Digital Games".
+**5.** Extract the ``nfs2iso2nfs.zip`` to the ``content`` folder of the dump.
 
-**6.** Select all the games you want to dump using the DPad/A button and then press Start.
+**6.** Run ``nfs2iso2nfs.exe`` (You have to do this step with every game you want to extract.)
 
-**7.** Make sure the target destination is set to ``SD card`` and the account is set accordingly, then select Start to begin dumping. (this could take a while)
-
-**8.** Once the dump has finished, press Start to exit Dumpling and insert your SD card into your computer.
-
-**9.** Go into dumpling/games/[name of the game you dumped]/content/ and extract the contents of ``nfs2iso2nfs.zip`` here.
-
-**10.** If you are on Mac or Linux, launch Terminal.
-
-**11.** If you are using Windows, run the exe ``nfs2iso2nfs.exe`` in the folder you extracted it to.
-
-If you are using Mac or Linux, run the following commands:
-
+Windows:
 ```
-cd [path to where you placed nfs2iso2nfs]
+nfs2iso2nfs.exe -dec
+```
 
+Ubuntu:
+```
 wine nfs2iso2nfs.exe -dec
 ```
 
-Congratulations, you now have your ROM! You can find the file in the folder you ran the exe in.
+Congrats you now have your rom! 
 
 ## Issues
 
