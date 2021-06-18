@@ -140,7 +140,7 @@ Congratulations, you now have your NDS ROM!
 
 * A ``otp.bin`` and ``seeprom.bin`` dump from your Wii U, if you dont have them follow this page: [Nand Dump](https://wiiu.hacks.guide/#/mocha/online-exploit/nand-backup)
 
-* A Wii U formatted USB Drive with at least 4GB (Copy the game(s) you want to extract to this before following the steps)
+* A Wii U formatted USB Drive with at least 4GB of free space (Copy the game(s) you want to extract to this before following the steps)
 
 * A Windows or Ubuntu computer
 
