@@ -23,7 +23,7 @@ MacOS Users: Always select "MS-DOS (FAT)", even if the card is larger than 32GB.
 
 * [wiiu-vc-extractor](https://github.com/wheatevo/wiiu-vc-extractor/releases/tag/2.0.0/) (download the respective .zip file for your operating system)
 
-* [Dumpling](https://github.com/emiyl/dumpling/releases/tag/2.1.1) (download ``dumpling.zip``)
+* [Dumpling](https://github.com/emiyl/dumpling/releases/latest/) (download ``dumpling.zip``)
 
 * An SD card with at least 300MB of free space
 
@@ -66,7 +66,7 @@ Congratulations, you now have your ROM! You can find the file in your wiiu-vc-ex
 
 ### What you need
 
-* [Dumpling](https://github.com/emiyl/dumpling/releases/tag/2.1.1) (download ``dumpling.zip``)
+* [Dumpling](https://github.com/emiyl/dumpling/releases/latest/) (download ``dumpling.zip``)
 
 * An SD card with at least 300MB of free storage
 
@@ -100,7 +100,7 @@ Congratulations, you now have your N64 ROM!
 
 ### What you need
 
-* [Dumpling](https://github.com/emiyl/dumpling/releases/tag/2.1.1) (download ``dumpling.zip``)
+* [Dumpling](https://github.com/emiyl/dumpling/releases/latest/) (download ``dumpling.zip``)
 
 * An SD card with at least 300MB of free storage
 
