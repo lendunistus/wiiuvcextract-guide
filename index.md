@@ -25,7 +25,7 @@ MacOS Users: Always select "MS-DOS (FAT)", even if the card is larger than 32GB.
 
 * [Dumpling](https://github.com/emiyl/dumpling/releases/latest/) (download ``dumpling.zip``)
 
-* An SD card with at least 300MB of free space
+* An SD card with at least 300MB of free storage
 
 * A Windows, Mac OS X or Linux computer with an SD card reader
 
@@ -56,11 +56,11 @@ MacOS Users: Always select "MS-DOS (FAT)", even if the card is larger than 32GB.
 ● If your game is a GBA game, go into ``/content`` and copy the .psb.m file and the .bin file into the same folder that you extracted wiiu-vc-extractor into.  
 ● If your game is a PCE game, go into ``/content`` and copy the .pkg file into the same folder that you extracted wiiu-vc-extractor into.
 
-**12** Run the following command:
+**12.** Run the following commands:
 
+``cd [path to your wiiu-vc-extractor folder]``
 ``Linux and macOS only: chmod +x wiiuvcextractor``  
-``wiiuvcextractor [dump file without the brackets]``  
-
+``wiiuvcextractor [dump file without the brackets]``
 Congratulations, you now have your ROM! You can find the file in your wiiu-vc-extractor folder.
 
 ## Nintendo 64
