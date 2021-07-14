@@ -7,7 +7,7 @@ Before you begin, if you are using Windows, make sure that **File Name Extension
 </p>
 
 Also make sure that your SD card is formatted as FAT32.
-If it is not use one of these tools to do so:
+If it is not, use one of these tools to do so:
 
 Windows - [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm)
 
@@ -61,6 +61,7 @@ MacOS Users: Always select "MS-DOS (FAT)", even if the card is larger than 32GB.
 ``cd [path to your wiiu-vc-extractor folder]``
 ``Linux and macOS only: chmod +x wiiuvcextractor``  
 ``wiiuvcextractor [dump file without the brackets]``
+
 Congratulations, you now have your ROM! You can find the file in your wiiu-vc-extractor folder.
 
 ## Nintendo 64
@@ -173,7 +174,7 @@ Ubuntu:
 wine nfs2iso2nfs.exe -dec
 ```
 
-Congrats you now have your rom! 
+Congratulations, you now have your Nintendo Wii ROM! 
 
 ## Issues
 
