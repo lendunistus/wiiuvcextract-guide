@@ -158,7 +158,7 @@ Congratulations, you now have your NDS ROM!
 
 **3.** Select your USB drive and insert your ``otp.bin`` and ``seeprom.bin`` into DumpsterU and click ``Ok``.
 
-**4.** Select the Game you are wanting to extract and select a place to store it. (You have to do this step with every game you want to extract.)
+**4.** Select the Game you want to extract and select a place to store it. (You have to do this step with every game you want to extract.)
 
 **5.** Copy the ``nfs2iso2nfs.exe`` to the ``content`` folder of the dump.
 
@@ -166,11 +166,13 @@ Congratulations, you now have your NDS ROM!
 
 Windows:
 ```
+cd [path to nfs2iso2nfs folder]
 nfs2iso2nfs.exe -dec
 ```
 
 Ubuntu:
 ```
+cd [path to nfs2iso2nfs folder]
 wine nfs2iso2nfs.exe -dec
 ```
 
