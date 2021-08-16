@@ -126,7 +126,7 @@ Congratulations, you now have your N64 ROM!
 
 **8.** Once the dump has finished, press Start to exit Dumpling and insert your SD card into your computer/phone.
 
-**9.** Go into dumpling/games/[name of the game you dumped]/game/content/0010/ on your SD card. There should be a file called ``rom.zip`` and have a ``.nds/.srl`` file inside it. If it is an ``.srl`` file you can rename it to ``.nds`` and have it work that way.
+**9.** Go into dumpling/games/[name of the game you dumped]/content/0010/ on your SD card. There should be a file called ``rom.zip`` and have a ``.nds/.srl`` file inside it. If it is an ``.srl`` file you can rename it to ``.nds`` and have it work that way.
 
 **10.** Copy the file to a safe location on your device.
 
