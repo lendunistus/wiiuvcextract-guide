@@ -6,7 +6,7 @@ Before you begin, if you are using Windows, make sure that **File Name Extension
   <img src="https://i.imgur.com/Enayp9F.png" alt="File Explorer"/>
 </p>
 
-Also make sure that your SD card is formatted as FAT32.
+Also make sure that your USB storage device or SD card is formatted as FAT32.
 If it is not, use one of these tools to do so:
 
 Windows - [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm)
@@ -21,37 +21,35 @@ MacOS Users: Always select "MS-DOS (FAT)", even if the card is larger than 32GB.
 
 ### What you need
 
-* [wiiu-vc-extractor](https://github.com/wheatevo/wiiu-vc-extractor/releases/latest) (download the respective .zip file for your operating system)
+* [wiiu-vc-extractor](https://github.com/wheatevo/wiiu-vc-extractor/releases/latest/) (download the respective .zip file for your operating system)
 
-* [Dumpling](https://github.com/emiyl/dumpling/releases/latest/) (download ``dumpling.zip``)
+* An USB storage device or SD card with at least 300MB of free storage
 
-* An SD card with at least 300MB of free storage
-
-* A Windows, Mac OS X or Linux computer with an SD card reader
+* A Windows, Mac OS X or Linux computer with a USB port or SD card reader
 
 #### Steps
 
-**1.** Insert your SD card into your computer.
+**1.** Extract the contents of ``wiiu-vc-extractor-xxxxx-x64.zip`` to a folder on your computer.
 
-**2.** Extract the contents of ``dumpling.zip`` to the root of your SD card.
+**2.** Insert your USB storage device or SD card into your Wii U.
 
-**3.** Extract the contents of ``wiiu-vc-extractor-xxxxx-x64.zip`` to a folder on your computer.
+**3.** If prompted, **do not** format any USB devices through the Wii U.
 
-**4.** Insert your SD card into your Wii U and power your Wii U on.
+**4.** Launch the internet browser on your console and open `dumplingapp.com`.
 
-**5.** Launch The Homebrew Launcher using your preferred method.
+**5.** Tap "Launch dumpling".
+    - If your console freezes for more than 10 seconds, hold down the Power button for 4 seconds and reboot.
+    - Once rebooted, [reset the browser's save data](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1507/~/how-to-delete-the-internet-browser-history) and try again.
+    
+**6.** Select "Dump Digital Games".
 
-**6.** Launch Dumpling.
+**7.** Select all the games you want to dump using the DPad/A button and then press Start.
 
-**7.** Select "Dump Digital Games".
+**8.** Make sure the account is set accordingly, then select Start to begin dumping. (this could take a while)
 
-**8.** Select all the games you want to dump using the DPad/A button and then press Start.
+**9.** Once finished, press start to exit Dumpling and insert your USB storage device or SD card into your computer.
 
-**9.** Make sure the target destination is set to ``SD card`` and the account is set accordingly, then select Start to begin dumping. (this could take a while)
-
-**10.** Once finished, press start to exit Dumpling and insert your SD card into your computer.
-
-**11.** Go into dumpling/games/[name of the game you dumped]/ on your SD card.  
+**11.** Go into dumpling/games/[name of the game you dumped]/ on your USB storage device or SD card.  
 ● If your game is a NES/SNES/GBA/FDS/TurboGrafx-16 game, go into ``/code`` and copy the .rpx file into the same folder that you extracted wiiu-vc-extractor into.  
 ● If your game is a GBA game, go into ``/content`` and copy the .psb.m file and the .bin file into the same folder that you extracted wiiu-vc-extractor into.  
 ● If your game is a PCE game, go into ``/content`` and copy the .pkg file into the same folder that you extracted wiiu-vc-extractor into.
@@ -68,31 +66,31 @@ Congratulations, you now have your ROM! You can find the file in your wiiu-vc-ex
 
 ### What you need
 
-* [Dumpling](https://github.com/emiyl/dumpling/releases/latest/) (download ``dumpling.zip``)
+* An USB storage device or SD card with at least 300MB of free storage
 
-* An SD card with at least 300MB of free storage
-
-* A computer with an SD card reader (an Android phone with an SD card slot also works great!)
+* A computer with a USB port or SD card reader (an Android phone with an SD card slot also works great!)
 
 #### Steps
 
-**1.** Extract the contents of ``dumpling.zip`` to the root of your SD card.
+**1.** Insert your USB storage device or SD card into your Wii U.
 
-**2.** Insert your SD card into your Wii U and power your Wii U on.
+**2.** If prompted, **do not** format any USB devices through the Wii U.
 
-**3.** Launch The Homebrew Launcher using your preferred method.
+**3.** Launch the internet browser on your console and open `dumplingapp.com`.
 
-**4.** Launch Dumpling.
+**4.** Tap "Launch dumpling".
+    - If your console freezes for more than 10 seconds, hold down the Power button for 4 seconds and reboot.
+    - Once rebooted, [reset the browser's save data](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1507/~/how-to-delete-the-internet-browser-history) and try again.
 
 **5.** Select "Dump Digital Games".
 
 **6.** Select all the games you want to dump using the DPad/A button and then press Start.
 
-**7.** Make sure the target destination is set to ``SD card`` and the account is set accordingly, then select Start to begin dumping. (this could take a while)
+**7.** Make sure the the account is set accordingly, then select Start to begin dumping. (this could take a while)
 
-**8.** Once the dump has finished, press Start to exit Dumpling and insert your SD card into your computer/phone.
+**8.** Once the dump has finished, press Start to exit Dumpling and insert your USB storage device or SD card into your computer/phone.
 
-**9.** Go into dumpling/games/[name of the game you dumped]/content/rom/ on your SD card. There should be a single file in that folder. Rename its extension to ``.z64``.
+**9.** Go into dumpling/games/[name of the game you dumped]/content/rom/ on your USB storage device or SD card. There should be a single file in that folder. Rename its extension to ``.z64``.
 
 **10.** Copy the file to a safe location on your device.
 
@@ -102,31 +100,31 @@ Congratulations, you now have your N64 ROM!
 
 ### What you need
 
-* [Dumpling](https://github.com/emiyl/dumpling/releases/latest/) (download ``dumpling.zip``)
+* An USB storage device or SD card with at least 300MB of free storage
 
-* An SD card with at least 300MB of free storage
-
-* A computer with an SD card reader (an Android phone with an SD card slot also works great!)
+* A computer with a USB port or SD card reader (an Android phone with an SD card slot also works great!)
 
 #### Steps
 
-**1.** Extract the contents of ``dumpling.zip`` to the root of your sd card.
+**1.** Insert your USB storage device or SD card into your Wii U.
 
-**2.** Insert your SD card into your Wii U and power your Wii U on.
+**2.** If prompted, **do not** format any USB devices through the Wii U.
 
-**3.** Launch The Homebrew Launcher using your preferred method.
+**3.** Launch the internet browser on your console and open `dumplingapp.com`.
 
-**4.** Launch Dumpling.
+**4.** Tap "Launch dumpling".
+    - If your console freezes for more than 10 seconds, hold down the Power button for 4 seconds and reboot.
+    - Once rebooted, [reset the browser's save data](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1507/~/how-to-delete-the-internet-browser-history) and try again.
 
 **5.** Select "Dump Digital Games".
 
 **6.** Select all the games you want to dump using the DPad/A button and then press Start.
 
-**7.** Make sure the target destination is set to ``SD card`` and the account is set accordingly, then select Start to begin dumping. (this could take a while)
+**7.** Make sure the account is set accordingly, then select Start to begin dumping. (this could take a while)
 
-**8.** Once the dump has finished, press Start to exit Dumpling and insert your SD card into your computer/phone.
+**8.** Once the dump has finished, press Start to exit Dumpling and insert your USB storage device or SD card into your computer/phone.
 
-**9.** Go into dumpling/games/[name of the game you dumped]/content/0010/ on your SD card. There should be a file called ``rom.zip`` and have a ``.nds/.srl`` file inside it. If it is an ``.srl`` file you can rename it to ``.nds`` and have it work that way.
+**9.** Go into dumpling/games/[name of the game you dumped]/content/0010/ on your USB storage device or SD card. There should be a file called ``rom.zip`` and have a ``.nds/.srl`` file inside it. If it is an ``.srl`` file you can rename it to ``.nds`` and have it work that way.
 
 **10.** Copy the file to a safe location on your device.
 
