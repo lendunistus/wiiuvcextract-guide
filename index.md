@@ -148,7 +148,7 @@ Congratulations, you now have your NDS ROM!
 
 * If you are using Windows, [.NET Framework](https://docs.microsoft.com/en-us/dotnet/framework/install/) version 4.5.2 or newer
 
-* If you are using Ubuntu, [Wine](https://wiki.winehq.org/Download) (You may need to install Wine-Mono, instructions can be found [here](https://github.com/Lazr1026/Guides-and-Shit-v2/wiki/Wine-Mono-Installation))
+* If you are using Ubuntu, [Wine](https://wiki.winehq.org/Download)
  
 #### Steps
 
