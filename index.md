@@ -21,7 +21,7 @@ MacOS Users: Always select "MS-DOS (FAT)", even if the card is larger than 32GB.
 
 ### What you need
 
-* [wiiu-vc-extractor](https://github.com/wheatevo/wiiu-vc-extractor/releases/tag/2.0.0/) (download the respective .zip file for your operating system)
+* [wiiu-vc-extractor](https://github.com/wheatevo/wiiu-vc-extractor/releases/latest) (download the respective .zip file for your operating system)
 
 * [Dumpling](https://github.com/emiyl/dumpling/releases/latest/) (download ``dumpling.zip``)
 
