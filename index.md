@@ -35,7 +35,7 @@ MacOS Users: Always select "MS-DOS (FAT)", even if the card is larger than 32GB.
 
 **3.** If prompted, **do not** format any USB devices through the Wii U.
 
-**4.** Launch the internet browser and open `dumplingapp.com`.
+**4.** Launch the internet browser on your console and open `dumplingapp.com`.
 
 **5.** Tap "Launch dumpling".
     - If your console freezes for more than 10 seconds, hold down the Power button for 4 seconds and reboot.
@@ -76,7 +76,7 @@ Congratulations, you now have your ROM! You can find the file in your wiiu-vc-ex
 
 **2.** If prompted, **do not** format any USB devices through the Wii U.
 
-**3.** Launch the internet browser and open `dumplingapp.com`.
+**3.** Launch the internet browser on your console and open `dumplingapp.com`.
 
 **4.** Tap "Launch dumpling".
     - If your console freezes for more than 10 seconds, hold down the Power button for 4 seconds and reboot.
@@ -110,7 +110,7 @@ Congratulations, you now have your N64 ROM!
 
 **2.** If prompted, **do not** format any USB devices through the Wii U.
 
-**3.** Launch the internet browser and open `dumplingapp.com`.
+**3.** Launch the internet browser on your console and open `dumplingapp.com`.
 
 **4.** Tap "Launch dumpling".
     - If your console freezes for more than 10 seconds, hold down the Power button for 4 seconds and reboot.
@@ -146,7 +146,7 @@ Congratulations, you now have your NDS ROM!
 
 * If you are using Windows, [.NET Framework](https://docs.microsoft.com/en-us/dotnet/framework/install/) version 4.5.2 or newer
 
-* If you are using Ubuntu, [Wine](https://wiki.winehq.org/Download) (You may need to install Wine-Mono, instructions can be found [here](https://github.com/Lazr1026/Guides-and-Shit-v2/wiki/Wine-Mono-Installation))
+* If you are using Ubuntu, [Wine](https://wiki.winehq.org/Download)
  
 #### Steps
 
