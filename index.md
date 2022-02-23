@@ -138,7 +138,7 @@ Congratulations, you now have your NDS ROM!
 
 * [DumpsterU](https://github.com/GaryOderNichts/DumpsterU/releases/) (download the one for your OS)
 
-* A ``otp.bin`` and ``seeprom.bin`` dump from your Wii U, if you dont have them follow this page: [Nand Dump](https://wiiu.hacks.guide/#/mocha/online-exploit/nand-backup)
+* A ``otp.bin`` and ``seeprom.bin`` dump from your Wii U, if you dont have them follow this page: [Nand Dump](https://wiiu.hacks.guide/#/tiramisu/nand-backup)
 
 * A Wii U formatted USB Drive with at least 4GB of free space (Copy the game(s) you want to extract to this before following the steps)
 
