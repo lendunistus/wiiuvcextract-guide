@@ -37,9 +37,9 @@ MacOS Users: Always select "MS-DOS (FAT)", even if the card is larger than 32GB.
 
 **4.** Launch the internet browser on your console and open `dumplingapp.com`.
 
-**5.** Tap "Launch dumpling".
-    - If your console freezes for more than 10 seconds, hold down the Power button for 4 seconds and reboot.
-    - Once rebooted, [reset the browser's save data](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1507/~/how-to-delete-the-internet-browser-history) and try again.
+**5.** Tap "Launch dumpling". <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- If your console freezes for more than 10 seconds, hold down the Power button for 4 seconds and reboot.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Once rebooted, [reset the browser's save data](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1507/~/how-to-delete-the-internet-browser-history) and try again.
     
 **6.** Select "Dump Digital Games".
 
