@@ -78,8 +78,8 @@ Congratulations, you now have your ROM! You can find the file in your wiiu-vc-ex
 
 **3.** Launch the internet browser on your console and open `dumplingapp.com`.
 
-**4.** Tap "Launch dumpling".
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- If your console freezes for more than 10 seconds, hold down the Power button for 4 seconds and reboot.
+**4.** Tap "Launch dumpling".<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- If your console freezes for more than 10 seconds, hold down the Power button for 4 seconds and reboot.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Once rebooted, [reset the browser's save data](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1507/~/how-to-delete-the-internet-browser-history) and try again.
 
 **5.** Select "Dump Digital Games".
