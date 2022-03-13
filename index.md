@@ -134,7 +134,7 @@ Congratulations, you now have your NDS ROM!
 
 ### What you need
 
-* [nfs2iso2nfs](https://github.com/NicoAICP/UWUVCI-Tools/blob/master/nfs2iso2nfs.exe)
+* [nfs2iso2nfs](https://github.com/NicoAICP/UWUVCI-Tools/raw/master/nfs2iso2nfs.exe)
 
 * [DumpsterU](https://github.com/GaryOderNichts/DumpsterU/releases/) (download the one for your OS)
 
