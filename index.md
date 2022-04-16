@@ -56,9 +56,9 @@ MacOS Users: Always select "MS-DOS (FAT)", even if the card is larger than 32GB.
 
 **12.** Run the following commands:
 
-``cd [path to your wiiu-vc-extractor folder]``
-``Linux and macOS only: chmod +x wiiuvcextractor``  
-``wiiuvcextractor [dump file without the brackets]``
+``cd [path to your wiiu-vc-extractor folder]``.  
+``Linux and macOS only: chmod +x wiiuvcextractor``.  
+``wiiuvcextractor [dump file without the brackets]``.  
 
 Congratulations, you now have your ROM! You can find the file in your wiiu-vc-extractor folder.
 
