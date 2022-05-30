@@ -132,6 +132,8 @@ Congratulations, you now have your NDS ROM!
 
 ## Nintendo Wii
 
+* Note: Since version v2.4.0b of Dumpling, you can dump WiiVC Games with it. It will be slower than with DumpsterU but if you dont have a USB Drive then you can use this instead.
+
 ### What you need
 
 * [nfs2iso2nfs](https://github.com/NicoAICP/UWUVCI-Tools/raw/master/nfs2iso2nfs.exe)
